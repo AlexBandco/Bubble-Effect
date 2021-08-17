@@ -10,7 +10,7 @@ nav {
 .nav-links {
   display: flex;
   width: 50%;
-  background: #115;
+/*   background: #115; */
   height: 100%;
   justify-content: space-around;
   align-items: center;
