@@ -1,3 +1,6 @@
-<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="200" height="200" rx="100" fill="#CC5858"/>
+<svg width="272" height="254" viewBox="0 0 272 254" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect opacity="0.7" width="200" height="200" rx="100" fill="#CC5858"/>
+<g opacity="0.7">
+<rect x="72" y="54" width="200" height="200" rx="100" fill="#58CCBE" style="mix-blend-mode:multiply"/>
+</g>
 </svg>
